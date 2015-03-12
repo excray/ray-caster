@@ -1,0 +1,137 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+0	jquery.js	/^    0: 200,$/;"	p
+1223	jquery.js	/^    1223: 204$/;"	p
+Animation	jquery.js	/^function Animation( elem, properties, options ) {$/;"	f
+Data	jquery.js	/^function Data() {$/;"	c
+Data.access	jquery.js	/^  access: function( owner, key, value ) {$/;"	m
+Data.discard	jquery.js	/^  discard: function( owner ) {$/;"	m
+Data.get	jquery.js	/^  get: function( owner, key ) {$/;"	m
+Data.hasData	jquery.js	/^  hasData: function( owner ) {$/;"	m
+Data.key	jquery.js	/^  key: function( owner ) {$/;"	m
+Data.remove	jquery.js	/^  remove: function( owner, key ) {$/;"	m
+Data.set	jquery.js	/^  set: function( owner, data, value ) {$/;"	m
+Tween	jquery.js	/^Tween.prototype = {$/;"	c
+Tween	jquery.js	/^function Tween( elem, options, prop, end, easing ) {$/;"	f
+Tween.constructor	jquery.js	/^  constructor: Tween,$/;"	p
+Tween.cur	jquery.js	/^  cur: function() {$/;"	m
+Tween.init	jquery.js	/^  init: function( elem, options, prop, end, easing, unit ) {$/;"	m
+Tween.init	jquery.js	/^Tween.prototype.init.prototype = Tween.prototype;$/;"	m
+Tween.propHooks._default	jquery.js	/^  _default: {$/;"	p
+Tween.run	jquery.js	/^  run: function( percent ) {$/;"	m
+_jQuery	jquery.js	/^  _jQuery = window.jQuery,$/;"	v
+_load	jquery.js	/^var _load = jQuery.fn.load;$/;"	v
+actualDisplay	jquery.js	/^function actualDisplay( name, doc ) {$/;"	f
+add	jquery.js	/^      add: function() {$/;"	m
+addGetHookIf	jquery.js	/^function addGetHookIf( conditionFn, hookFn ) {$/;"	f
+addToPrefiltersOrTransports	jquery.js	/^function addToPrefiltersOrTransports( structure ) {$/;"	f
+ajaxConvert	jquery.js	/^function ajaxConvert( s, response, jqXHR, isSuccess ) {$/;"	f
+ajaxExtend	jquery.js	/^function ajaxExtend( target, src ) {$/;"	f
+ajaxHandleResponses	jquery.js	/^function ajaxHandleResponses( s, jqXHR, responses ) {$/;"	f
+augmentWidthOrHeight	jquery.js	/^function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {$/;"	f
+boolHook.set	jquery.js	/^  set: function( elem, value, name ) {$/;"	m
+buildParams	jquery.js	/^function buildParams( prefix, obj, traditional, add ) {$/;"	f
+cloneCopyEvent	jquery.js	/^function cloneCopyEvent( src, dest ) {$/;"	f
+completed	jquery.js	/^function completed() {$/;"	f
+computePixelPositionAndBoxSizingReliable	jquery.js	/^  function computePixelPositionAndBoxSizingReliable() {$/;"	f
+createFxNow	jquery.js	/^function createFxNow() {$/;"	f
+createOptions	jquery.js	/^function createOptions( options ) {$/;"	f
+createTween	jquery.js	/^function createTween( value, prop, animation ) {$/;"	f
+cssExpand	jquery.js	/^var cssExpand = [ "Top", "Right", "Bottom", "Left" ];$/;"	v
+curCSS	jquery.js	/^function curCSS( elem, name, computed ) {$/;"	f
+dataAttr	jquery.js	/^function dataAttr( elem, key, data ) {$/;"	f
+dataType	jquery.js	/^    var dataType,$/;"	v
+defaultDisplay	jquery.js	/^function defaultDisplay( nodeName ) {$/;"	f
+defaultPrefilter	jquery.js	/^function defaultPrefilter( elem, props, opts ) {$/;"	f
+descriptor.value	jquery.js	/^        descriptor[ this.expando ] = { value: unlock };$/;"	p
+disableScript	jquery.js	/^function disableScript( elem ) {$/;"	f
+docElem	jquery.js	/^var docElem = window.document.documentElement;$/;"	v
+fixInput	jquery.js	/^function fixInput( src, dest ) {$/;"	f
+fn	jquery.js	/^        fn = function( elem, key, value ) {$/;"	f
+fontWeight	jquery.js	/^    fontWeight: "400"$/;"	p
+genFx	jquery.js	/^function genFx( type, includeWidth ) {$/;"	f
+getAll	jquery.js	/^function getAll( context, tag ) {$/;"	f
+getStyles	jquery.js	/^var getStyles = function( elem ) {$/;"	f
+getWidthOrHeight	jquery.js	/^function getWidthOrHeight( elem, name, extra ) {$/;"	f
+getWindow	jquery.js	/^function getWindow( elem ) {$/;"	f
+hooks.empty.fire	jquery.js	/^      hooks.empty.fire = function() {$/;"	f
+i	jquery.js	/^    var i, prop, copy,$/;"	v
+init	jquery.js	/^init.prototype = jQuery.fn;$/;"	c
+inspectPrefiltersOrTransports	jquery.js	/^function inspectPrefiltersOrTransports( structure, options, originalOptions, jqXHR ) {$/;"	f
+inspectPrefiltersOrTransports.inspect	jquery.js	/^  function inspect( dataType ) {$/;"	f
+isArraylike	jquery.js	/^function isArraylike( obj ) {$/;"	f
+isHidden	jquery.js	/^var isHidden = function( elem, el ) {$/;"	f
+jQuery.Callbacks	jquery.js	/^jQuery.Callbacks = function( options ) {$/;"	f
+jQuery.Event	jquery.js	/^jQuery.Event = function( src, props ) {$/;"	c
+jQuery.Event.isDefaultPrevented	jquery.js	/^  isDefaultPrevented: returnFalse,$/;"	p
+jQuery.Event.isImmediatePropagationStopped	jquery.js	/^  isImmediatePropagationStopped: returnFalse,$/;"	p
+jQuery.Event.isPropagationStopped	jquery.js	/^  isPropagationStopped: returnFalse,$/;"	p
+jQuery.Event.preventDefault	jquery.js	/^  preventDefault: function() {$/;"	m
+jQuery.Event.stopImmediatePropagation	jquery.js	/^  stopImmediatePropagation: function() {$/;"	m
+jQuery.Event.stopPropagation	jquery.js	/^  stopPropagation: function() {$/;"	m
+jQuery._evalUrl	jquery.js	/^jQuery._evalUrl = function( url ) {$/;"	f
+jQuery.acceptData	jquery.js	/^jQuery.acceptData = function( owner ) {$/;"	f
+jQuery.ajaxSettings.xhr	jquery.js	/^jQuery.ajaxSettings.xhr = function() {$/;"	f
+jQuery.easing.linear	jquery.js	/^  linear: function( p ) {$/;"	m
+jQuery.easing.swing	jquery.js	/^  swing: function( p ) {$/;"	m
+jQuery.event.global	jquery.js	/^  global: {},$/;"	p
+jQuery.expr.filters.animated	jquery.js	/^jQuery.expr.filters.animated = function( elem ) {$/;"	f
+jQuery.expr.filters.hidden	jquery.js	/^jQuery.expr.filters.hidden = function( elem ) {$/;"	f
+jQuery.expr.filters.visible	jquery.js	/^jQuery.expr.filters.visible = function( elem ) {$/;"	f
+jQuery.filter	jquery.js	/^jQuery.filter = function( expr, elems, not ) {$/;"	f
+jQuery.fn.delay	jquery.js	/^jQuery.fn.delay = function( time, type ) {$/;"	f
+jQuery.fn.load	jquery.js	/^jQuery.fn.load = function( url, params, callback ) {$/;"	f
+jQuery.fn.ready	jquery.js	/^jQuery.fn.ready = function( fn ) {$/;"	f
+jQuery.fn.size	jquery.js	/^jQuery.fn.size = function() {$/;"	f
+jQuery.fx.speeds._default	jquery.js	/^  _default: 400$/;"	p
+jQuery.fx.speeds.fast	jquery.js	/^  fast: 200,$/;"	p
+jQuery.fx.speeds.slow	jquery.js	/^  slow: 600,$/;"	p
+jQuery.fx.start	jquery.js	/^jQuery.fx.start = function() {$/;"	f
+jQuery.fx.stop	jquery.js	/^jQuery.fx.stop = function() {$/;"	f
+jQuery.fx.tick	jquery.js	/^jQuery.fx.tick = function() {$/;"	f
+jQuery.fx.timer	jquery.js	/^jQuery.fx.timer = function( timer ) {$/;"	f
+jQuery.noConflict	jquery.js	/^jQuery.noConflict = function( deep ) {$/;"	f
+jQuery.offset.setOffset	jquery.js	/^  setOffset: function( elem, options, i ) {$/;"	m
+jQuery.param	jquery.js	/^jQuery.param = function( a, traditional ) {$/;"	f
+jQuery.parseHTML	jquery.js	/^jQuery.parseHTML = function( data, context, keepScripts ) {$/;"	f
+jQuery.parseJSON	jquery.js	/^jQuery.parseJSON = function( data ) {$/;"	f
+jQuery.parseXML	jquery.js	/^jQuery.parseXML = function( data ) {$/;"	f
+jQuery.propHooks.selected.get	jquery.js	/^    get: function( elem ) {$/;"	m
+jQuery.ready.promise	jquery.js	/^jQuery.ready.promise = function( obj ) {$/;"	f
+jQuery.removeEvent	jquery.js	/^jQuery.removeEvent = function( elem, type, handle ) {$/;"	f
+jQuery.speed	jquery.js	/^jQuery.speed = function( speed, easing, fn ) {$/;"	f
+jQuery.swap	jquery.js	/^jQuery.swap = function( elem, options, callback, args ) {$/;"	f
+letterSpacing	jquery.js	/^    letterSpacing: "0",$/;"	p
+manipulationTarget	jquery.js	/^function manipulationTarget( elem, content ) {$/;"	f
+nodeHook	jquery.js	/^var nodeHook, boolHook,$/;"	v
+nonce	jquery.js	/^var nonce = jQuery.now();$/;"	v
+oldCallbacks	jquery.js	/^var oldCallbacks = [],$/;"	v
+opt.complete	jquery.js	/^  opt.complete = function() {$/;"	f
+propFilter	jquery.js	/^function propFilter( props, specialEasing ) {$/;"	f
+r20	jquery.js	/^var r20 = \/%20\/g,$/;"	v
+rbrace	jquery.js	/^var rbrace = \/^(?:\\{[\\w\\W]*\\}|\\[[\\w\\W]*\\])$\/,$/;"	v
+rclass	jquery.js	/^var rclass = \/[\\t\\r\\n\\f]\/g;$/;"	v
+readyList	jquery.js	/^var readyList;$/;"	v
+restoreScript	jquery.js	/^function restoreScript( elem ) {$/;"	f
+return	jquery.js	/^  return new Tween.prototype.init( elem, options, prop, end, easing );$/;"	c
+return.init	jquery.js	/^  return new Tween.prototype.init( elem, options, prop, end, easing );$/;"	m
+returnFalse	jquery.js	/^function returnFalse() {$/;"	f
+returnTrue	jquery.js	/^function returnTrue() {$/;"	f
+rfocusable	jquery.js	/^var rfocusable = \/^(?:input|select|textarea|button)$\/i;$/;"	v
+risSimple	jquery.js	/^var risSimple = \/^.[^:#\\[\\.,]*$\/;$/;"	v
+rkeyEvent	jquery.js	/^  rkeyEvent = \/^key\/,$/;"	v
+rneedsContext	jquery.js	/^var rneedsContext = jQuery.expr.match.needsContext;$/;"	v
+rreturn	jquery.js	/^var rreturn = \/\\r\/g;$/;"	v
+rxhtmlTag	jquery.js	/^  rxhtmlTag = \/<(?!area|br|col|embed|hr|img|input|link|meta|param)(([\\w:]+)[^>]*)\\\/>\/gi,$/;"	v
+safeActiveElement	jquery.js	/^function safeActiveElement() {$/;"	f
+setGlobalEval	jquery.js	/^function setGlobalEval( elems, refElements ) {$/;"	f
+setPositiveNumber	jquery.js	/^function setPositiveNumber( elem, value, subtract ) {$/;"	f
+showHide	jquery.js	/^function showHide( elements, show ) {$/;"	f
+sibling	jquery.js	/^function sibling( cur, dir ) {$/;"	f
+strundefined	jquery.js	/^var strundefined = typeof undefined;$/;"	v
+vendorPropName	jquery.js	/^function vendorPropName( style, name ) {$/;"	f
+winnow	jquery.js	/^function winnow( elements, qualifier, not ) {$/;"	f
